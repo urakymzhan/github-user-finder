@@ -23,7 +23,7 @@ In the project directory, you can run:
 ## Author
 
 - Author of this project: [Brad Traversy](#)
-- But this project was updated to use
+- Note: this project was updated to use
     - [Tailwind v3](https://tailwindcss.com/docs/guides/create-react-app)
     - [CRA v5 Aplha](https://github.com/facebook/create-react-app/discussions/11278)
 
